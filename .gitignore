@@ -1,0 +1,14 @@
+*.cmf
+*.elf
+*.hex
+*.hxl
+*.lst
+*.map
+*.mum
+*.o
+*.rlf
+*.sdb
+*.sym
+*blink.X/build/
+*blink.X/nbproject/Package-default.bash
+*blink.X/dist/
